@@ -1,3 +1,5 @@
+https://github.com/sudheerj/awesome-javascript-technologies
+https://github.com/sudheerj/javascript-interview-questions
 https://github.com/sudheerj?tab=repositories
 https://github.com/sudheerj/reactjs-interview-questions#what-is-react
 
