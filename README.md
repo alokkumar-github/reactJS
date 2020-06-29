@@ -17,3 +17,5 @@ Good to hear:
 
 React is the new canonical example of one-way data flow, so mentions of React are a good signal. Cycle.js is another popular implementation of uni-directional data flow.
 Angular is a popular framework which uses two-way binding.
+
+https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad
