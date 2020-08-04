@@ -23,8 +23,8 @@ Angular is a popular framework which uses two-way binding.
 https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad
 
 https://github.com/gopinav/Learning-Path-Resources/blob/master/React_Learning_Path_2020.pdf
-React Fundamental and advance topic
-React Hooks
-React redux
+React Fundamental and advance topic  : https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+React Hooks : https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
+React redux : https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
 React Formik
 React Storybook
