@@ -3,6 +3,8 @@ https://github.com/sudheerj/javascript-interview-questions
 https://github.com/sudheerj?tab=repositories
 https://github.com/sudheerj/reactjs-interview-questions#what-is-react
 https://github.com/gopinav/Learning-Path-Resources/blob/master/Modern_JavaScript_Learning_Path_2020.pdf
+https://github.com/techsithgit?tab=repositories
+https://www.youtube.com/watch?v=BWl9bw_nbbs&list=PL7pEw9n3GkoWkHCQsfBh77UP4nc8lvTbS&index=5
 
 
 Q. What are two-way data binding and one-way data flow, and how are they different?
